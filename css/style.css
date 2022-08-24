@@ -32,10 +32,7 @@ nav.menu li a {
     font-weight: 700;
 }
 
-nav.menu li a:hover {
-  border-bottom:1px solid red;
-  background-color: gray;
-}
+
 
 h1 {
   font-size: 20px;
@@ -224,10 +221,6 @@ h2 {
   grid-template-rows: repeat(2, 1fr);
 }
 
-.redes span:hover{
-  transform: skew(-15deg);
-  color: #ad4930;
-}
 
 
 .menu-mobile img {
